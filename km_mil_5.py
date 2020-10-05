@@ -1,4 +1,3 @@
-
 try:
     dis = input('enter km distance: ' )
     if float(dis) <= 0:
